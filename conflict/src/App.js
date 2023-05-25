@@ -10,10 +10,10 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 
-        <p>HI !</p>
-
         <h1>CONFLICT !</h1>
         <h1>CONFLICT 2 !</h1>
+        <p>HI !</p>
+        <p>HI 2 !</p>
 
         <a
           className="App-link"
