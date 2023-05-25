@@ -13,6 +13,7 @@ function App() {
         <p>HI !</p>
 
         <h1>CONFLICT !</h1>
+        <h1>CONFLICT 2 !</h1>
 
         <a
           className="App-link"
