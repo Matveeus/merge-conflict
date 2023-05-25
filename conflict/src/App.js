@@ -11,6 +11,7 @@ function App() {
         </p>
         <h1>CONFLICT !</h1>
         <p>HI !</p>
+        <p>HI 2 !</p>
         <a
           className="App-link"
           href="https://reactjs.org"
