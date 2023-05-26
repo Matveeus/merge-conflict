@@ -10,13 +10,13 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 
-        <h1>CONFLICT !</h1>
+
         <h1>CONFLICT 2 !</h1>
-        <p>HI !</p>
+
         <p>HI 2 !</p>
 
         <p>HI from branch 2</p>
-        <p>HI from branch-one 111</p>
+
 
         <a
           className="App-link"
