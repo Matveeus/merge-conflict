@@ -6,11 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
 
-        <p>HI from branch-one</p>
+          <p>HI from branch-one</p>
 
         <h1>CONFLICT 2 !</h1>
 
@@ -20,6 +17,9 @@ function App() {
         <p>HI from GITHUB</p>
 
         <p>wake up, NEO !!!</p>
+
+        <a>AM I CONFLICTING ????????????</a>
+
 
         <a
           className="App-link"
