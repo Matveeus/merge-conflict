@@ -9,16 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-
-        <p>HI from branch-one</p>
-
-        <h1>CONFLICT 2 !</h1>
-
-        <p>HI 2 !</p>
-
-        <p>HI from branch 2</p>
-
-        <p>wake up, NEO !!!</p>
+        <a>AM I CONFLICTING ????????????</a>
 
         <a
           className="App-link"
