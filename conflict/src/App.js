@@ -15,6 +15,8 @@ function App() {
         <p>HI !</p>
         <p>HI 2 !</p>
 
+        <p>HI from branch 2</p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
