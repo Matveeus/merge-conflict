@@ -18,6 +18,8 @@ function App() {
 
         <p>HI from branch 2</p>
 
+        <p>wake up, NEO !!!</p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
