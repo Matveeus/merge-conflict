@@ -17,6 +17,7 @@ function App() {
         <p>HI 2 !</p>
 
         <p>HI from branch 2</p>
+        <p>HI from GITHUB</p>
 
         <a
           className="App-link"
