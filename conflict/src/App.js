@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const text = () => {return false}
   return (
     <div className="App">
       <header className="App-header">
@@ -10,14 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 
-        <p>HI from branch-one</p>
-
-        <h1>CONFLICT 2 !</h1>
-
-        <p>HI 2 !</p>
-
-        <p>HI from branch 2</p>
-        <p>HI from GITHUB</p>
+        <button onclick="text()">ASDGHJKLF</button>
 
         <a
           className="App-link"
